@@ -2,8 +2,6 @@
 
 Custom RetroArch overlay files for TrimUI devices (Smart Pro, Brick). Only GBA for now.
 
-![Example](docs/example.jpeg)
-
 > ^ `tsp-gba-grid` overlay
 
 - `(device)-gba`: Only GBA logo
